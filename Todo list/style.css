@@ -1,0 +1,101 @@
+.container{
+
+    width: 60%;
+    background-color: white;
+    height: 200px;
+    margin-right: 20px;
+
+
+
+
+
+
+
+
+
+
+}
+
+body{
+    height: 100vh;
+    background-color: white;
+
+
+
+}
+
+#newtask input{
+   position: relative;
+   top: 250px; 
+   left: 250px;
+   width: 90%;
+   height: 30px;
+
+
+
+
+
+}
+
+#push{
+    position: relative;
+    top: 250px;
+    left: 50px;
+    color: black;
+    background-color: aqua;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 20px;
+
+
+
+}
+
+h1{
+    
+    border: black;
+    background-color: black;
+    background-size: 250px;
+    color: lightgray;
+    padding: 5px;
+
+
+
+
+
+}
+
+
+h2{
+
+    color: black;
+    position: relative;
+    left: 225px;
+    top: 150px;
+    font-size: 50px;
+
+
+
+
+
+}
+
+a{
+
+    position: relative;
+    top: 250px;
+    right: -1650px;
+
+
+
+
+}
+
+input[type="text"] {
+
+    position: relative;
+    top: 250px;
+    width: 70%;
+    height: 25px;
+
+}
